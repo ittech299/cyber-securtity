@@ -1,0 +1,48 @@
+/*Navbar*/
+.navbar{
+    flex-direction: column;
+    transition:all 0.5s ease-out; 
+    height: 11rem;
+    justify-content: center;
+}
+.nav-list{
+    flex-direction: column;
+}
+.nav-list li {
+    padding: 12px 0;
+    
+}
+.h-nav-resp{
+    height: 45px;
+   
+}
+.v-class-resp{
+    opacity: 0;
+    display: none;
+    
+}
+/* Hamburger */
+.burger{
+    display: block;
+   }
+/*Other*/
+.paras{
+    text-align: center;
+}
+.title{
+    text-align: center;
+    padding-left: 0;
+}
+.box{
+    height: auto;
+}
+.img-card{
+    max-width: -webkit-fill-available;
+    height: auto;
+}
+.listtitle span{
+    font-size: 37px;
+}
+.center{
+    text-align: center;
+}
